@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navTipoConta"
+        android:icon="@drawable/ic_filter_list_black_24dp"
+        android:title="@string/tipoConta"
+    />
+
+    <item
+        android:id="@+id/navContaCorrente"
+        android:icon="@drawable/ic_polymer_black_24dp"
+        android:title="@string/contaCorrente" />
+
+    <item
+        android:id="@+id/navInstituicao"
+        android:icon="@drawable/ic_functions_black_24dp"
+        android:title="@string/instituicao" />
+
+</menu>
