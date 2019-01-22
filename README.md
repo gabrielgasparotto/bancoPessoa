@@ -1,8 +1,6 @@
-<img src="https://user-images.githubusercontent.com/45596679/51555332-89d97600-1e5e-11e9-8b3b-55a4010b90ab.png" width="80" height="80"> 
+# Banco Pessoa (Java)<br> <img src="https://user-images.githubusercontent.com/45596679/51555332-89d97600-1e5e-11e9-8b3b-55a4010b90ab.png" width="100" height="100">
 
-# Banco Pessoa (Java) 
-
-Consumo de uma api listando a base de dados, inserindo novos componentes, buscando itens na lista, alterando e também deletando. Tudo utilizando requisições em JSON como GET,POST,DELETE, etc;
+Projeto feito durante o programa de estágio na BRQ. O desafio seria fazer o consumo de uma API JSON em um aplicativo Android e realizar todas as requisições possíveis dentro dela, sendo POST, GET, DELETE, etc.
 
 Modelos de dados da api: Conta Corrente, Instituição, Tipo Conta;
 
