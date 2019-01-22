@@ -4,7 +4,7 @@ Projeto feito durante o programa de estágio na BRQ. O desafio seria fazer o con
 
 Modelos de dados da api: Conta Corrente, Instituição, Tipo Conta;
 
-## Frammeworks e funcionalidades Android utilizadas:
+## Frameworks e funcionalidades Android utilizadas:
 RecycleView (Modelagem da lista)<br>
 Retrofit (Requisição na API)<br>
 Picasso (Formato e edição de imagens)<br>
